@@ -1,0 +1,18 @@
+{
+  "name": "ai-summarizer",
+  "version": "1.0.0",
+  "description": "AI Summarizer adalah aplikasi berbasis web sederhana yang dapat merangkum teks panjang menjadi ringkas secara otomatis menggunakan **Granite AI (IBM Watsonx)**.  \r Proyek ini dibuat sebagai bagian dari **Capstone Project IBM: AI & Data**.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
